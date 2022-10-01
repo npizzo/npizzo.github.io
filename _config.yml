@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nick Pizzo"
-  avatar           : "nick_pizzo.png"
+  avatar           :  nick_pizzo.png
   bio              : "Physical Oceanographer interested in air-sea interaction, fluid mechanics and applied math"
   location         : "Scripps Institution of Oceanography, UCSD"
   employer         :
