@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-US" 
 title                    : "Nick Pizzo"
 title_separator          : "-"
 name                     : &name "Nick Pizzo"
@@ -83,7 +83,7 @@ author:
   name             : "Nick Pizzo"
   avatar           : nick_pizzo.png
   bio              : "Physical Oceanographer interested in the physics of air-sea interaction, fluid mechanics and applied math"
-  location         : "SIO, UCSD"
+  location         : "Deptartment of Physics, UC Berkeley"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5n0yS6EAAAAJ&hl=en"
